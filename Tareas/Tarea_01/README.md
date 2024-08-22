@@ -1,6 +1,5 @@
 # Conclusiones actividad 1
 ## Posibles temas:
-------
 #### **1. Accesibilidad universal en espacios públicos y privados en Chile**: Entendiendo la discapacidad como una situación provocada por la interacción entre las personas y sus características con el medio físico y social no habilitado para la diversidad propia de la naturaleza humana, la accesibilidad es aquella condición que deben cumplir los entornos, lugares, bienes, productos y servicios para que todas las personas puedan participar y gozar de ellos de manera autónoma y con las mismas oportunidades.
 
 #### Para llevar a cabo este tema se pueden buscar informes y datos de instituciones como el Servicio Nacional de la Discapacidad (SENADIS), o el Instituto Nacional de Estadísticas (INE) sobre accesibilidad. También se pueden revisar estudios y tesis universitarias o de organizaciones que aborden la accesibilidad en Chile. Encuestas y/o entrevistas a personas con discapacidad pueden aportar con información cualitativa y cuantitativa sobre accesibilidad.
@@ -28,5 +27,5 @@
 #### Una posible visualización de datos puede ser un mapa de calor para ver la densidad de cobertura del transporte público en diferentes comunas de Santiago.
 
 #### **Impacto**: Medio, ya que el transporte público es un tema de interés general para las personas que viven en Santiago y ayudaría a entender la efectividad de los cambios en políticas urbanas, sin embargo, no se propone un cambio sino una recopilación de la información.
-### **Esfuerzo**: Bajo, se pueden conseguir los datos necesarios en las bases indicadas anteriormente.
+#### **Esfuerzo**: Bajo, se pueden conseguir los datos necesarios en las bases indicadas anteriormente.
 #### [Matriz Impacto x Esfuerzo](https://miro.com/welcomeonboard/cmZmZ29oWGY5SlhSYlhOemUyNDJvdTZiMTBsZUJCVWRBMk1uYklIbWRnS2ZyMG9Eek9hNWJkU1I5ejRPYmdOcXwzNDU4NzY0NTk3NDEzNDIzNTU2fDI=?share_link_id=842516185141)
